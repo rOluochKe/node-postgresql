@@ -3,7 +3,7 @@
 Node, SQL, PostgreSQL - Mastering Backend Web Development
 
 <p align="center">
-  <img src="screenshots/Capture.PNG" width="800" />
+  <img src="screenshots/Capture.png" width="800" />
 </p>
 
 1. fortunes_api
